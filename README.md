@@ -1,4 +1,4 @@
-# tTwo-Stage CMOS Op-Amp Custom Layout in 45-nm GPDK with DRC/LVS verification and analog device-matching techniques
+# Two-Stage CMOS Op-Amp Custom Layout in 45-nm GPDK with DRC/LVS verification and analog device-matching techniques
 Custom IC layout design of a two-stage CMOS operational amplifier using Cadence Virtuoso, including analog layout techniques and DRC/LVS verification
 
 ## Overview
