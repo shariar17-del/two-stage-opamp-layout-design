@@ -43,12 +43,15 @@ The completed layout was verified against the 45-nm GPDK design rules and
 schematic.
 
 ### DRC
+<img width="1812" height="880" alt="two stage opamp alternative2_DRC" src="https://github.com/user-attachments/assets/c4957463-af92-44eb-a196-47131be60abd" />
+
 
 Status: **PASSED**
 
 The final layout contains no DRC errors.
 
 ### LVS
+<img width="1600" height="748" alt="Screenshot 2026-09-30 at 2 21 36 PM" src="https://github.com/user-attachments/assets/f30efe6e-dae4-4b03-a9ba-0e9c5469aaca" />
 
 Status: **PASSED**
 
